@@ -1,0 +1,11 @@
+#books, th, td {
+    border: 1px solid;
+}
+
+#books {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
